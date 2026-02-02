@@ -1,0 +1,8 @@
+{
+  "name": "Clínica Dental Salvadó",
+  "description": "Una experiencia dental moderna, interactiva y minimalista con soporte para temas oscuro y claro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
